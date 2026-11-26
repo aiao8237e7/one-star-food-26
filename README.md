@@ -11,7 +11,7 @@ An alien tourist gives planet Earth a one-star review while still admitting
 the food was excellent. The program writes one sentence — at most 200
 characters — to `/output/entry.txt`:
 
-> One star: Earth's traffic jams last longer than our ice ages, the Wi-Fi drops if a cloud looks at it funny, but the street satay is so good I would invade again just for the peanut sauce.
+> One star: the locals worship glowing rectangles and queue for hours to sit in metal boxes, but the street satay is so good I would invade again just for the peanut sauce.
 
 ## Run
 

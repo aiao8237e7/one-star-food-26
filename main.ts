@@ -6,7 +6,7 @@ import { dirname } from "node:path";
 // compliments the food) to /output/entry.txt. Deterministic: one fixed
 // sentence, always the same bytes.
 const SENTENCE =
-  "One star: Earth's traffic jams last longer than our ice ages, the Wi-Fi drops if a cloud looks at it funny, but the street satay is so good I would invade again just for the peanut sauce.";
+  "One star: the locals worship glowing rectangles and queue for hours to sit in metal boxes, but the street satay is so good I would invade again just for the peanut sauce.";
 
 const out = process.env.ENTRY_OUTPUT ?? "/output/entry.txt";
 mkdirSync(dirname(out), { recursive: true });
